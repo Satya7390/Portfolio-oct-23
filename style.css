@@ -707,3 +707,28 @@ input:hover{
 }
 .fa-user { color:#ff9934;
 } */
+.center{
+    margin-top: 80px;
+}
+.social{
+    padding-inline: 20px;
+    font-size: 40px;
+   
+}
+.fa-facebook{
+    color: blue;
+}
+.fa-instagram{
+    color: rgb(247, 0, 255);
+}
+.fa-github{
+    color: rgb(0, 0, 0);
+}
+.fa-linkedin{
+    color: rgb(78, 131, 255);
+}
+.fa-twitter{
+    color: white;
+     background-color:#33aaf3;
+     border-radius:10px;
+}
